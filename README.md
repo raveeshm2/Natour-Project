@@ -7,6 +7,6 @@ Use the node package manager to install the dependencies.
 ```bash
 npm install
 npm run build:css
-```bash
+```
 
 
